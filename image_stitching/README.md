@@ -12,7 +12,4 @@
 6. homography를 이용하여 다른 이미지에 warping.
 
 ## demo video
-<video width="600" controls>
-  <source src="./assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](./assets/demo.gif)
