@@ -12,4 +12,4 @@
 6. homography를 이용하여 다른 이미지에 warping.
 
 ## demo video
-<img src="./assets/demo.gif" width="400">
+<img src="./assets/demo.gif" width="1080">
