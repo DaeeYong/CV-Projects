@@ -34,7 +34,9 @@ int main() {
 			Point center(cvRound(vec[0]), cvRound(vec[1]));
 			int radius = vec[2];
 		}
-		cout << "coins" << i << " 이미지의 동전 개수: " << cnt << '\n';
+		cout << "coins" << i << " counts: " << cnt << '\n';
+		imshow("cur img", blurCoins[i]);
+		waitkey();
 	}
 
 	return 0;

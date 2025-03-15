@@ -11,4 +11,5 @@ band를 합성하기 위한 mask 영상은 원본 mask 영상의 gaussian pyrami
 결과로 나온 Laplacian pyramid를 reconstruction
 
 ## demo video
+<img src="./assets/demo.gif" width="400">
 ![Demo](./assets/demo.gif)

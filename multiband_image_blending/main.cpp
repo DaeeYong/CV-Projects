@@ -30,6 +30,8 @@ int main() {
 	Mat result = MultiBandBlending(appleLaplacianPyr, orangeLaplacianPyr, maskGaussianPyr);
 
 	imshow("Multi-band blending", result);
+	imshow("apple", apple);
+	imshow("orange", orange);
 	waitKey();
 
 	return 0;

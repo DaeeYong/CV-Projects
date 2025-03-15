@@ -4,4 +4,4 @@
 Hough Transform을 이용하여 주어진 영상으로부터 동전의 개수를 알아내는 프로그램.
 
 ## demo video
-![Demo](./assets/demo.gif)
+<img src="./assets/demo.gif" width="400">
